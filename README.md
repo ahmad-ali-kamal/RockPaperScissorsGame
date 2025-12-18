@@ -91,16 +91,10 @@ At the end of the game, the program displays:
 
 ## 👤 Author
 
-Developed as a learning project to practice:
-
-* C++ basics
-* Functions and structs
-* Enums
-* Random number generation
-* Console interaction
-
----
+Ahmed Ali Kamal
+Computer Science Student | Backend & AI Enthusiast
 
 ## 📄 License
 
-This project is open-source and available for educational purposes.
+This project is licensed for educational use.
+All rights reserved © 2025 Ahmed Ali Kamal.
