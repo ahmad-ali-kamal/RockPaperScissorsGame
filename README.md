@@ -34,8 +34,8 @@ The game provides visual feedback using console colors and sound alerts, and dis
 ## 📂 Project Structure
 
 ```
-RockPaperScissors/
-│── main.cpp
+RockPaperScissorsGame/
+│── RockPaperScissors.cpp
 ```
 
 ---
@@ -46,7 +46,7 @@ RockPaperScissors/
 2. Compile the program:
 
    ```bash
-   g++ main.cpp -o RockPaperScissors
+   g++ RockPaperScissors.cpp -o RockPaperScissors
    ```
 3. Run the executable:
 
