@@ -36,6 +36,7 @@ The game provides visual feedback using console colors and sound alerts, and dis
 ```
 RockPaperScissorsGame/
 │── RockPaperScissors.cpp
+│── README.md
 ```
 
 ---
